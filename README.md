@@ -1,0 +1,4 @@
+- Hi, I’m @BiorockerH
+- I’m a biomedicine / clinical medicine student
+- I'm doing some experiments about female reproductive system (premature ovarian failure)
+- I'm learning bioinformatics
